@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url('img/ft1.jpg');
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-top: 4rem;
+    text-shadow: 100px;
+}
+
+body{background-color: aquamarine;
+}
+
+section{
+    padding-top: 5rem;
+}
